@@ -1,4 +1,12 @@
-### Hi there 👋
+---
+title: SamuelNguyen1998
+date: '2020-0831'
+spoiler: Creativity Readme Template
+categories: ["creativity", "all-profile"]
+githubUsername: 'SamuelNguyen1998'
+---
+
+![Hey there, I'm Samuel. I'm a software developer, I love web development and .NET. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <!--
 **SamuelNguyen1998/SamuelNguyen1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
