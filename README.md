@@ -20,7 +20,7 @@ githubUsername: 'SamuelNguyen1998'
 <br />
 <br />
 
-Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](), Freelancer 👨🏽‍💻 [@Upwork](), Internee 👨🏽‍💼[@IncubateIND]() and a Java Intern [@IIT Hyderabad](). Beside's programming, I enjoy eating food, reading book and traveling.
+Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EveryNationCampus](), Freelancer 👨🏽‍💻 [@Vlance](), Internee 👨🏽‍💼[@TPS Software](). Beside's programming, I enjoy eating food, reading book and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
