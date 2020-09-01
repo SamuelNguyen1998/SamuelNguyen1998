@@ -20,15 +20,15 @@ githubUsername: 'SamuelNguyen1998'
 <br />
 <br />
 
-Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EveryNationCampus](), Freelancer 👨🏽‍💻 [@Vlance](), Internee 👨🏽‍💼[@TPS Software](). Beside's programming, I enjoy eating food, reading book and traveling.
+Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EveryNationCampus](https://www.everynation.org/), Freelancer 👨🏽‍💻 [@Freelancer.com](https://www.freelancer.com/), Internee 👨🏽‍💼[@TPS Software](https://www.tpssoft.com/). Beside's programming, I enjoy eating food, reading book and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Activity Management]();
+- 👨🏽‍💻 I’m currently working on [Activity Management](https://github.com/SamuelNguyen1998/front-hham);
 - 🌱 I’m currently learning PostgresSQL and Java; 
-- 👯 I’m looking to collaborate on [Activity Management]() 🤝;
+- 👯 I’m looking to collaborate on [Activity Management](https://github.com/SamuelNguyen1998/front-hham) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I learn more about .NET, but now i work with Java, Spring, and Angular!
