@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EveryNationCampus](https://www.everynation.org/), Freelancer 👨🏽‍💻 [@Freelancer.com](https://www.freelancer.com/), Internee 👨🏽‍💼[@TPS Software](https://www.tpssoft.com/). Beside's programming, I enjoy eating food, reading book and traveling.
+Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EveryNationCampus](https://www.everynation.org/), Freelancer 👨🏽‍💻 [@Freelancer.com](https://www.freelancer.com/), Python Developer 👨🏽‍💼[@TPS Software](https://www.tpssoft.com/). Beside's programming, I enjoy eating food, reading book and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
