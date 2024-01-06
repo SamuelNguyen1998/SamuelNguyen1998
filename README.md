@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EveryNationCampus](https://www.everynation.org/), Freelancer 👨🏽‍💻 [@Freelancer.com](https://www.freelancer.com/), Python Developer 👨🏽‍💼[@TPS Software](https://www.tpssoft.com/). Beside's programming, I enjoy eating food, reading book and traveling.
+Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Community Team Member 🙍🏽‍♂️ [@EveryNationCampus](https://www.everynation.org/), Freelancer 👨🏽‍💻 [@Freelancer.com](https://www.freelancer.com/), Golang Developer 👨🏽‍💼[@Hitachi Digital Services](https://hitachids.com/). Beside's programming, I enjoy eating food, reading book and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -30,6 +30,7 @@ Hi, I'm Samuel, a Full Stack Developer 🚀 from Viet Nam, currently, I'm a Comm
 ### 👨‍💻 My Stack
 
 ### Programming Language
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
